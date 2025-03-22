@@ -1,4 +1,6 @@
 
+##Argumentos Variáveis
+
 def multiplica_tudo(*args):
     produto = 1 
     for num     in args:
